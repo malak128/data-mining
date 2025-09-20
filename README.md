@@ -21,13 +21,6 @@ Analysis of San Francisco crime data including preprocessing, feature engineerin
 - Feature importance visualization
 - Evaluation metrics: Accuracy, Confusion Matrix, Precision, Recall, F1-Score, Cross-Validation
 
-## GUI Screenshots
-### Crimes by Hour
-![Crime by Hour](images/crime_by_hour.png)
-### Crimes by Day
-![Crime by Day](images/crime_by_day.png)
-### K-Medoids Clusters
-![KMedoids Clusters](images/kmedoids_clusters.png)
 
 ## Requirements
 Install dependencies:
